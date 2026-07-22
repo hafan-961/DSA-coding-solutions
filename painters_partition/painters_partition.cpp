@@ -72,6 +72,4 @@ int main() {
     
     cout << min_time(arr,m);
 
-
-
 }
